@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jessie Harney/PhD Candidate in Public Policy"
+title                    : "Jessie Harney / PhD Candidate in Public Policy"
 title_separator          : "-"
 name                     : &name "Jessie Harney"
 description              : &description "I am a person."
