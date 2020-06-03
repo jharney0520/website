@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jessie Harney / PhD Candidate in Public Policy"
-title_separator          : "-"
+title                    : "Jessie Harney , PhD Candidate in Public Policy"
+title_separator          : ","
 name                     : &name "Jessie Harney"
 description              : &description "I am a person."
 url                      : "https://jharney0520.github.io/site/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
