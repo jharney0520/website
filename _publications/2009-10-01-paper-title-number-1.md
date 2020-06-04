@@ -9,4 +9,3 @@ citation: 'Lerman, A.E. & Harney, J. (2019). &quot;Feedback effects and the crim
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Lerman, A.E. & Harney, J. (2019). Feedback effects and the criminal justice bureaucracy: officer attitudes and the future of correctional reform. <i>The Annals of the American Academy of Political and Social Science</i>. 685(1).
