@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jessie Harney"
-  avatar           : "profile.jpeg"
+  avatar           : "https://github.com/jharney0520/website/tree/master/files/profile.jpeg"
   bio              : "PhD Candidate in Public Policy"
   location         : "Goldman School of Public Policy"
   employer         :
