@@ -13,4 +13,5 @@ I am a current PhD Candidate in Public Policy at the Goldman School of Public Po
 
 Thank you for visting! 
 <br>
-[______________________________________________________________________________________]("https://thumbs.gfycat.com/ScornfulDismalJoey-max-1mb.gif")
+<br>
+[_____________________________________________________________________________________________________________________________]("https://thumbs.gfycat.com/ScornfulDismalJoey-max-1mb.gif")
