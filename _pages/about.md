@@ -10,4 +10,6 @@ redirect_from:
 
 I am a current PhD Candidate in Public Policy at the Goldman School of Public Policy at the University of California, Berkeley. My research interests are in criminal justice system reform with a specific focus on mental health and improving outcomes for those whose lives are impacted by the carceral system. Please see the rest of the webpage for more information! 
 <br>
-Thank you for <a class="text-gray-dark no-underline" href="https://thumbs.gfycat.com/ScornfulDismalJoey-max-1mb.gif">visiting!</a>
+<div class="text-blue mb-2">
+  Thank you for
+</div> <a class="text-gray-dark no-underline" href="https://thumbs.gfycat.com/ScornfulDismalJoey-max-1mb.gif">visiting!</a>
