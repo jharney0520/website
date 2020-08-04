@@ -12,4 +12,4 @@ Lerman, A.E. & Harney, J (2019). [Feedback Effects and the Criminal Justice Bure
 <br>
 **Under Review**
 <br>
-Lerman, A.E., Harney, J., & Sadin, M. Expanding the Inquiry on Prisons and Mental Health: The Effects of Correctional Work
+Lerman, A.E., Harney, J., & Sadin, M. Prisons and Mental Health: Violence, Organizational Support, and the Effects of Correctional Work.
