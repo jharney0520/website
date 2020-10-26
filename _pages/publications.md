@@ -6,7 +6,7 @@ author_profile: true
 ---
 **2020**
 <br>
-Lerman, A.E. & Harney, J. (2020). [The Pandemic in Prison: Implications for California Politics and Policymaking] (https://escholarship.org/content/qt14p2v75w/qt14p2v75w.pdf)
+Lerman, A.E. & Harney, J. (2020). [The Pandemic in Prison: Implications for California Politics and Policymaking](https://escholarship.org/content/qt14p2v75w/qt14p2v75w.pdf)
 <br>
 <br>
 **2019**
